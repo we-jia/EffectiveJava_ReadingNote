@@ -1,4 +1,4 @@
-### Item2：當建構物件的參數過多時，改成Builder Pattern來建構物件
+### 當建構物件的參數過多時，改成Builder Pattern來建構物件
 
 考慮底下的例子：
 ``` Java
