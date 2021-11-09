@@ -1,4 +1,4 @@
-### Item3：考慮用`enum`來建構Singleton
+### 考慮用`enum`來建構Singleton
 
 建構Singleton通常會想到兩種作法：
 
