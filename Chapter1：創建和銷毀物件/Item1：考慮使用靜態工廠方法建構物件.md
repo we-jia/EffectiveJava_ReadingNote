@@ -1,4 +1,4 @@
-### Item1：考慮使用靜態工廠方法建構物件
+### 考慮使用靜態工廠方法建構物件
 
 ```Java
 public class Product {
