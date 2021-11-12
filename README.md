@@ -18,4 +18,8 @@
     * [12.始終要覆寫toString](Chapter2：物件的共通方法/12.始終要覆寫toString.md)
     * [13.覆寫clone方法要注意的事情](Chapter2：物件的共通方法/13.覆寫clone方法要注意的事情.md)
     * [14.實作Comparable要注意的事項](Chapter2：物件的共通方法/14.實作Comparable要注意的事項.md)
+* [Chapter3](README.md)
+    * [15.使class和method的訪問屬性降到最低](Chapter3：類別與介面/15.使class和method的訪問屬性降到最低.md)
+    * [16.在public_class中公開method而不是field](Chapter3：類別與介面/16.在public_class中公開method而不是field.md)
+    * [17.最小化可變性](Chapter3：類別與介面/17.最小化可變性.md)
  
