@@ -3,7 +3,7 @@
 2021年底前沒寫完心得，我就是廢物XD！ 
 
 * [Chapter1](README.md)
-    * [1.考慮使用靜態工廠方法建構物件](Chapter1：創建和銷毀物件/1.考慮使用靜態工廠方法建構物件.md)
+    * [1.使用靜態工廠方法建構物件](Chapter1：創建和銷毀物件/1.使用靜態工廠方法建構物件.md)
     * [2.當建構物件的參數過多時，改成BuilderPattern來建構物件](Chapter1：創建和銷毀物件/2.當建構物件的參數過多時，改成BuilderPattern來建構物件.md)
     * [3.考慮用enum來建構Singleton](Chapter1：創建和銷毀物件/3.考慮用enum來建構Singleton.md)
     * [4.使用private建構子來讓物件不能實例化](Chapter1：創建和銷毀物件/4.使用private建構子來讓物件不能實例化.md)
