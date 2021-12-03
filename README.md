@@ -1,3 +1,4 @@
+
 # EffectiveJava
 
 2021年底前沒寫完心得，我就是廢物XD！ 
@@ -5,7 +6,7 @@
 * [Chapter1](README.md)
     * [1.使用靜態工廠方法建構物件](Chapter1：創建和銷毀物件/1.使用靜態工廠方法建構物件.md)
     * [2.當建構物件的參數過多時，改成BuilderPattern來建構物件](Chapter1：創建和銷毀物件/2.當建構物件的參數過多時，改成BuilderPattern來建構物件.md)
-    * [3.考慮用enum來建構Singleton](Chapter1：創建和銷毀物件/3.考慮用enum來建構Singleton.md)
+    * [3.用enum來建構Singleton](Chapter1：創建和銷毀物件/3.用enum來建構Singleton.md)
     * [4.使用private建構子來讓物件不能實例化](Chapter1：創建和銷毀物件/4.使用private建構子來讓物件不能實例化.md)
     * [5.利用依賴注入來取代寫死的內部資源](Chapter1：創建和銷毀物件/5.利用依賴注入來取代寫死的內部資源.md)
     * [6.避免創建不需要用到的物件](Chapter1：創建和銷毀物件/6.避免創建不需要用到的物件.md)
